@@ -34,6 +34,8 @@ class DataScientist:
 
 ---
 
-### 📊 GitHub Stats
-![Naimjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naimjon0121&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naimjon0121&layout=compact&theme=radial)
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naimjon0121&show_icons=true&theme=tokyonight" alt="Naimjon's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naimjon0121&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+</p>
