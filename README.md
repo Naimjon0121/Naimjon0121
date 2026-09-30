@@ -16,16 +16,24 @@ class DataScientist:
             "Building end-to-end Machine Learning pipelines",
             "Financial Data Analysis & DCF Modeling"
         ]
-🛠️ Tech Stack & Tools
-Languages: Python, SQL
+```
 
-Data Science & ML: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+---
 
-Developer Tools: Git, GitHub, VS Code, Jupyter Notebooks
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, SQL
+- **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Developer Tools:** Git, GitHub, VS Code, Jupyter Notebooks
 
-📫 Connect with Me
-LinkedIn: Naimjon Toshev
+---
 
-Kaggle: Naimjon Toshev Profile
+### 📫 Connect with Me
+- **LinkedIn:** [Naimjon Toshev](https://www.linkedin.com/in/naimjontoshev0121)
+- **Kaggle:** [Naimjon Toshev Profile](https://www.kaggle.com/naimjontoshev)
+- **Email:** naimjontoshev1@gmail.com
 
-Email: naimjontoshev1@gmail.com
+---
+
+### 📊 GitHub Stats
+![Naimjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naimjon0121&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naimjon0121&layout=compact&theme=radial)
