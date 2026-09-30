@@ -34,12 +34,6 @@ class DataScientist:
 
 ---
 
-### 📊 GitHub Activity
-<p align="left">
-  <a href="https://github.com/Naimjon0121">
-    <img src="https://github-readme-stats.vercel.app/api?username=Naimjon0121&show_icons=true&theme=tokyonight&hide_border=true" alt="Naimjon's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/Naimjon0121">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naimjon0121&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-  </a>
-</p>
+### 📊 GitHub Activity & Streak
+
+![Naimjon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naimjon0121&theme=tokyo-night)
