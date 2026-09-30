@@ -1,25 +1,18 @@
-# NaimjonToshev
-About me
-Hi there, I'm Naimjon Toshev 👋
-A results-driven engineer with a strong background in technical management, engineering, and financial trading, currently diving deep into Data Science and Artificial Intelligence.
+# Hi there, I'm Naimjon Toshev 👋 
+### Data Scientist | AI & Machine Learning Practitioner
 
-👨‍💻 About Me
-🎓 Education: Graduated from Turin Polytechnic University in Tashkent in 2018 with a degree in Engineering.
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Naimjon Toshev"
+        self.role = "Data Scientist & AI Practitioner"
+        self.location = "Tashkent, Uzbekistan"
+        self.core_skills = ["Python", "SQL", "EDA", "Machine Learning", "Predictive Modeling"]
+        self.goal = "Mastering Machine Learning & achieving Kaggle Grandmaster status 🚀"
 
-📈 Financial Markets: Active trader in the U.S. Stock Market, applying analytical approaches to quantitative trading.
-
-💡 Current Focus: Expanding expertise in Data Science & AI through intensive coursework at Mohirdev.
-
-💼 Work Experience
-Production Manager — Samarkand Tekstil (Most recent role)
-
-Service Engineer — Tofflon (China)
-
-Warranty Manager — JV UzAvto-MAN Company
-
-🎯 Goals & Interests
-🐍 Data Analysis & Machine Learning with Python
-
-📊 Quantitative Analysis & Stock Market Modeling
-
-🤖 Building AI-driven solutions to solve real-world problems
+    def current_focus(self):
+        return [
+            "Competing in Kaggle ML Challenges",
+            "Building end-to-end Machine Learning pipelines",
+            "Financial Data Analysis & DCF Modeling"
+        ]
