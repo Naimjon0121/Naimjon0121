@@ -32,8 +32,4 @@ class DataScientist:
 - **Kaggle:** [Naimjon Toshev Profile](https://www.kaggle.com/naimjontoshev)
 - **Email:** naimjontoshev1@gmail.com
 
----
 
-### 📊 GitHub Activity & Streak
-
-![Naimjon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naimjon0121&theme=tokyo-night)
